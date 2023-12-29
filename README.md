@@ -2,7 +2,7 @@
 Learning on Hyperskill
 
 Created a program to manage the purchase of tickets. 
-The "owners" of the cinema define the number os rows and seats per row. The program guides the clients of purchasing tickets.
+The "owners" of the cinema define the number os rows and seats per row. The program guides the clients into purchasing tickets.
 
 	I applied
 		-Variables
